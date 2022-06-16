@@ -12,7 +12,7 @@
 <a href="https://www.twitter.com/lakshaybhushan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 
 ## My Github stats 📈
-![Lakshay's Github Status](https://github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&theme=algolia)
+![Lakshay's Github Status](https://github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&theme=algolia&hide=contribs,prs)
 
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
