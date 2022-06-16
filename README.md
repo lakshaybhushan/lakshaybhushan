@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Me](https://i.imgur.com/trYEeMX.png)
+![Me](https://imgur.com/J7GZVnW)
 <!--
 **lakshaybhushan/lakshaybhushan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
