@@ -4,7 +4,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=for-the-badge&color=blue)
 
-- Doing Whater
+- Doing whatever I like to do ...
 
 ## My Socials (Contact me here ☎️)
 <a href="https://www.instagram.com/lakshaybhushan"><img alt="Insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -16,8 +16,9 @@
 
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
-## My Latest Project
-### Click the icon to download 👇
+## My Latest Project 🆕
+### Greeney. (A Visual Studio Code color theme)
+#### Click the icon to download 👇
 <a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img alt="Greeney" src="https://github.com/lakshaybhushan/greeney-theme/blob/main/Images/Greeney.png" height ="150" width = "150"></a>
 
 ## If you like my work :)
