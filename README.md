@@ -19,7 +19,7 @@
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
 ## My Latest Project 🆕
-### Greeney. (A Visual Studio Code color theme)
+### Greeney. (A Visual Studio Code colour theme)
 #### Click the icon to download 👇
 <a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img alt="Greeney" src="https://github.com/lakshaybhushan/greeney-theme/blob/main/Images/Greeney.png" height ="150" width = "150"></a>
 
