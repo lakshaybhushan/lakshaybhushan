@@ -13,7 +13,7 @@
 <a href="https://www.twitter.com/lakshaybhushan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://open.spotify.com/user/amcdf5xiittevf5gl1ecjqfyu?si=cb842fdcfb9d4be5"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"></a>
 
-## My Github stats 📈
+## Github stats 📈
 ![Lakshay's Github Status](https://github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&theme=algolia&hide=contribs,prs)
 
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
