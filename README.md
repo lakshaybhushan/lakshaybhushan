@@ -6,7 +6,7 @@
 
 - Doing whatever I like to do ...
 
-## My Socials (Contact me here ☎️)
+## My Socials 👥
 <a href="https://www.instagram.com/lakshaybhushan"><img alt="Insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/lakshay-bhushan-42209920a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/LakshayB24/"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
