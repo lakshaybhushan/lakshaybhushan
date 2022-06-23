@@ -1,6 +1,6 @@
 ![Me](https://i.imgur.com/J7GZVnW.png)
 
-## A perfectionist & a student at IIITD 🏫
+## A neophiliac student at IIITD 🏫
 
 ![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=for-the-badge&color=blue)
 
