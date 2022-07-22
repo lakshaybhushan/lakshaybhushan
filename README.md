@@ -16,7 +16,7 @@
 ## Github stats 📈
 ![Lakshay's Github Status](https://github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&theme=algolia&hide=contribs,prs)
 
-[![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
+[![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
 ## My Latest Project 🆕
 ### Greeney. (A Visual Studio Code colour theme)
