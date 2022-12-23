@@ -1,8 +1,8 @@
-![Me](https://i.imgur.com/J7GZVnW.png)
+![lb](https://i.imgur.com/PDmcUKG.png)
 
 ## A Curious Learner @IIITD 🏫
 
-![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=for-the-badge&color=blue)
+![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=flat-square&color=09c4b6)
 
 - Doing whatever I like to do ...
 
