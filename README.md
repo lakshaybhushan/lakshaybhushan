@@ -1,6 +1,6 @@
 ![Me](https://i.imgur.com/J7GZVnW.png)
 
-## A neophiliac student at IIITD 🏫
+## A Curious Learner @IIITD 🏫
 
 ![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=for-the-badge&color=blue)
 
@@ -17,6 +17,7 @@
 
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=algolia&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
+<!---
 ## My Latest Project 🆕
 ### Greeney. (A Visual Studio Code colour theme)
 #### Click the icon to download 👇
@@ -27,3 +28,5 @@
 ##### Support me by buying me a coffee ☕️
 
 <a href="https://www.buymeacoffee.com/lakshaybhushan"><img alt="BMAC" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+
+---!>
