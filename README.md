@@ -1,4 +1,4 @@
-![lb](https://i.imgur.com/PDmcUKG.png)
+![lb](https://i.imgur.com/uw6wxj7.png)
 
 ## A Curious Learner @IIITD 🏫
 
