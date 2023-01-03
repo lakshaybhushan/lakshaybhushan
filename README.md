@@ -1,6 +1,6 @@
 ![lb](https://i.imgur.com/uw6wxj7.png)
 
-## A Curious Learner @IIITD 🏫
+## A Curious Learner & Designer @IIITD 🏫
 
 ![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=flat-square&color=09c4b6)
 
