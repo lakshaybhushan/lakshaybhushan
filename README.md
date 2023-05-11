@@ -43,5 +43,5 @@
 ## My Visual Studio Code theme (Greeney.) 🎨
 #### Click the badge to download 👇 (300+ Installs) 
 
-<a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img src="https://i.imgur.com/jwdtJw3.png" alt= “greeney” width="407.24"></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img src="https://i.imgur.com/JFD4NTS.png" alt= “greeney” width="407.24"></a>
 ---
