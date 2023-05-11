@@ -40,17 +40,8 @@
 
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=gotham&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
+## My Visual Studio Code theme (Greeney.) 🎨
+#### Click the badge to download 👇 (300+ Installs) 
 
-<!--
-## My Latest Project 🆕
-### Greeney. (A Visual Studio Code colour theme)
-#### Click the icon to download 👇
-<a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img alt="Greeney" src="https://github.com/lakshaybhushan/greeney-theme/blob/main/Images/Greeney.png" height ="150" width = "150"></a>
-
-## If you like my work :)
-
-##### Support me by buying me a coffee ☕️
-
-<a href="https://www.buymeacoffee.com/lakshaybhushan"><img alt="BMAC" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-
--->
+<a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img src="https://i.imgur.com/jwdtJw3.png" alt= “greeney” width="407.24"></a>
+---
