@@ -4,7 +4,7 @@
 
 ![Views](https://komarev.com/ghpvc/?username=lakshaybhushan&style=for-the-badge&color=09c4b6)
 
-## My Socials 👥
+## Socials 👥
 <a href="https://www.linkedin.com/in/lakshay-bhushan-42209920a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.behance.net/lakshaybhushan"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://www.twitter.com/lakshaybhushan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
