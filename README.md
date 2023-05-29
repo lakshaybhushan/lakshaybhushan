@@ -9,7 +9,7 @@
 <a href="https://www.behance.net/lakshaybhushan"><img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="https://www.twitter.com/lakshaybhushan"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/lakshaybhushan"><img alt="Insta" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://open.spotify.com/user/amcdf5xiittevf5gl1ecjqfyu"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<!-- <a href="https://open.spotify.com/user/amcdf5xiittevf5gl1ecjqfyu"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> -->
 <!--
 <a href="https://leetcode.com/lakshay21397/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 -->
