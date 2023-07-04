@@ -39,7 +39,7 @@
 [![Lakshay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&theme=gotham&layout=compact)](https://github.com/lakshaybhushan/github-readme-stats)
 
 ## My VSCode theme (Greeney.) 🎨
-#### Click the badge to download 👇 (350+ Installs) 
+#### Click the badge to download 👇 (450+ Installs) 
 
 <a href="https://marketplace.visualstudio.com/items?itemName=LakshayBhushan.greeney-theme&ssr=false#overview"><img src="https://i.imgur.com/dRnPzQG.png" alt= “greeney” width="407.24"></a>
 ---
