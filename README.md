@@ -1,4 +1,4 @@
-<a href="https://lakshb.me/"><img alt="Banner" src="https://imgur.com/HOfHpNq.png" target="_blank" rel="noopener noreferrer"></a>
+[<img src="https://imgur.com/HOfHpNq.png" alt="Banner"/>](https://lakshb.me)
 
 <h2 align="center">
 
