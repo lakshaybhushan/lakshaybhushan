@@ -1,4 +1,4 @@
-[<img src="https://imgur.com/HOfHpNq.png" alt="Banner"/>](https://lakshb.me)
+[<img src="https://imgur.com/qcMidME.png" alt="Banner"/>](https://lakshb.me)
 
 <h2 align="center">
 
