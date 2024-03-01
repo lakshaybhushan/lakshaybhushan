@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src ="https://lakshay-github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&hide=prs,issues&rank_icon=github&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
-<img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&size_weight=0&count_weight=0&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto">
+<img src ="https://lakshay-github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
+<img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&size_weight=1&count_weight=1&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto">
 
 </p>
