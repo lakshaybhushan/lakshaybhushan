@@ -1,4 +1,4 @@
-[<img src="https://imgur.com/qcMidME.png" alt="Banner"/>](https://lakshb.dev)
+[<img src="https://imgur.com/Yf58sIy.png" alt="Banner"/>](https://lakshb.dev)
 
 <h2 align="center">
 
@@ -27,7 +27,7 @@
 
 <p align="center">
 
-<img src ="https://lakshay-github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="GitHub Stats" height="50%" width="auto">
-<img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&size_weight=0&count_weight=1&layout=compact&bg_color=00000000&hide_border=true&text_color=C4DBE0&title_color=34E6F2&icon_color=34E6F2" alt="Top Languages" height="50%" width="auto">
+<img src ="https://lakshay-github-readme-stats.vercel.app/api?username=lakshaybhushan&show_icons=true&hide=prs,issues&count_private=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="GitHub Stats" height="50%" width="auto">
+<img src ="https://lakshay-github-readme-stats.vercel.app/api/top-langs/?username=lakshaybhushan&size_weight=0&count_weight=1&layout=compact&bg_color=00000000&hide_border=true&text_color=FDFFF5&title_color=65E0BD&icon_color=65E0BD" alt="Top Languages" height="50%" width="auto">
 
 </p>
