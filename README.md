@@ -1,7 +1,6 @@
-[<img src="https://imgur.com/Yf58sIy.png" alt="Banner"/>](https://lakshb.dev)
+[<img src="https://github.com/user-attachments/assets/fb9cedc6-fcd5-4d3c-a470-007998ec9b66" alt="Banner"/>](https://lakshb.dev)
 
 <h2 align="center">
-
 
 <img src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src ="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white">
