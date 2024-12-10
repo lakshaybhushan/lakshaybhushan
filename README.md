@@ -1,7 +1,7 @@
-[<img src="https://github.com/user-attachments/assets/fb9cedc6-fcd5-4d3c-a470-007998ec9b66" alt="Banner"/>](https://lakshb.dev)
+[<img src="https://github.com/user-attachments/assets/3c16f516-4683-492e-b3dd-f581cd3f50c0" alt="Banner"/>](https://lakshb.dev)
 
 <h2 align="center">
-
+  
 <img src ="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src ="https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white">
 <img src ="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black">
